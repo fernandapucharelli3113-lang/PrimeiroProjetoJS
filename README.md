@@ -12,7 +12,7 @@ Professor: Vitor Lima
 
 Este projeto foi desenvolvido durante a primeira aula de JavaScript.
 
-O objetivo foi aprender; 
+O objetivo foi aprender:
 - Utilizar o VS code;
 
 
